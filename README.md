@@ -23,4 +23,4 @@ public static void sort(int... list3)
         }
 
     }
-    This site was built using [GitHub Pages](https://www.youtube.com/watch?v=NZ4U9OZdtxk&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=3&ab_channel=ElzeroWebSchool).
+    This site was built using [](https://www.youtube.com/watch?v=NZ4U9OZdtxk&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&index=3&ab_channel=ElzeroWebSchool).
